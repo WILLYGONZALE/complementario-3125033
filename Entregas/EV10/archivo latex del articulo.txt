@@ -1,0 +1,72 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+% Configuración de márgenes
+\geometry{a4paper, margin=1in}
+
+% Configuración de títulos
+\titleformat{\section}{\large\bfseries}{\thesection.}{0.5em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.5em}{}
+
+% Documento
+\begin{document}
+
+\title{Recomendaciones para el desarrollo de patrones de diseño para proyectos emergentes transformando el desarrollo de software}
+\author{Willian Steban Gonzalez Cortes \\ Servicio Nacional de Aprendizaje (SENA) \\ \texttt{willinthomas@gmail.com}}
+\date{}
+\maketitle
+
+\begin{abstract}
+El uso de patrones de diseño y metodologías innovadoras en el desarrollo de software es esencial para enfrentar los desafíos actuales. Este documento explora cómo estos elementos mejoran la escalabilidad, flexibilidad y mantenibilidad de los sistemas. Además, se examinan tecnologías emergentes y su impacto en la eficiencia del diseño y la formación educativa, junto con iniciativas para mitigar el estrés laboral en desarrolladores.
+\end{abstract}
+
+\textbf{Palabras clave:} Patrones de diseño, tecnologías emergentes, bienestar laboral, educación en ingeniería, desarrollo de software.
+
+\section{Introducción}
+El diseño de software enfrenta retos crecientes debido a la complejidad y las demandas tecnológicas. En un mundo donde las tecnologías emergentes redefinen las dinámicas de la ingeniería de software, los desarrolladores se ven obligados a adoptar prácticas que prioricen la eficiencia y la adaptabilidad. Este documento no solo explora patrones de diseño, sino también las estrategias para mitigar los desafíos de implementación en entornos diversos.
+
+\section{Revisión de la Literatura}
+Los patrones de diseño, introducidos por el \textit{Gang of Four}, han demostrado ser herramientas clave para enfrentar problemas recurrentes en el desarrollo de software. Metodologías como UML y MDA han ampliado el alcance de la ingeniería de software, mientras que herramientas como Docker y frameworks educativos innovadores han modernizado la enseñanza y práctica del desarrollo. Asimismo, se observa una tendencia creciente en la incorporación de enfoques basados en la inteligencia artificial y la minería de datos para anticipar problemas de diseño y optimizar procesos.
+
+\section{Metodología}
+La investigación se basa en un análisis documental fundamentado en otros artículos relevantes para el desarrollo de nuevos proyectos, orientados a ser más flexibles y realizables, y a prevenir errores comunes en la elaboración de procesos relacionados con patrones de diseño. Se integraron análisis cualitativos y cuantitativos para obtener una perspectiva amplia sobre las mejores prácticas y los desafíos actuales en el uso de patrones de diseño.
+
+\section{Resultados}
+\begin{enumerate}
+    \item Impacto de los patrones de diseño: Mejoran la escalabilidad y el mantenimiento de sistemas complejos.
+    \item Avances tecnológicos: Herramientas como Docker y frameworks reducen la complejidad técnica para los usuarios.
+    \item Educación y bienestar laboral: La gamificación y métricas de estrés fomentan un aprendizaje efectivo y entornos saludables.
+    \item Realización de objetivos más claros en la medida de lo posible, llevando a cabo los procesos lógicos y la maquetación del proyecto.
+    \item Colaboración interdisciplinaria: La integración de equipos multidisciplinarios ha demostrado mejorar significativamente la resolución de problemas complejos en proyectos de software.
+\end{enumerate}
+
+\section{Discusión}
+Los resultados muestran que la adopción de patrones de diseño no solo mejora la calidad del software, sino que también facilita la enseñanza de conceptos complejos. La interacción entre tecnologías emergentes y metodologías tradicionales plantea un balance necesario para garantizar la estabilidad y la innovación simultáneamente. La integración de tecnologías emergentes y enfoques educativos innovadores puede transformar tanto la práctica como la enseñanza del desarrollo de software.
+
+\section{Conclusiones}
+El uso estratégico de patrones de diseño, junto con tecnologías emergentes y enfoques educativos, impulsa el desarrollo de software de alta calidad. El fortalecimiento de una cultura de aprendizaje continuo es esencial para que los equipos de desarrollo se mantengan al día con las tendencias tecnológicas y los cambios del sector. Atender el bienestar de los desarrolladores asegura un entorno laboral más saludable y productivo.
+
+\section{Recomendaciones}
+\begin{enumerate}
+    \item Fomentar la capacitación continua en patrones de diseño y tecnologías modernas.
+    \item Promover la implementación de métricas para monitorear el estrés laboral en equipos de desarrollo.
+    \item Desarrollar recursos educativos interactivos, como juegos y simuladores.
+    \item Incentivar la creación de comunidades de práctica que permitan a los desarrolladores compartir conocimientos y experiencias en torno a patrones de diseño y tecnologías emergentes.
+\end{enumerate}
+
+\section*{Agradecimientos}
+Agradezco al instructor por su apoyo en la revisión y desarrollo de este trabajo.
+
+\section*{Referencias}
+\begin{enumerate}
+    \item Gamma, E., Helm, R., Johnson, R., \& Vlissides, J. (1994). \textit{Design Patterns: Elements of Reusable Object-Oriented Software}. Addison-Wesley.
+    \item Docker Documentation. \textit{Docker Overview}. Disponible en: \url{https://www.docker.com}
+    \item UML Specification. \textit{Unified Modeling Language (UML) Resource Page}. OMG, 2017.
+\end{enumerate}
+
+\end{document}
